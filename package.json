@@ -17,7 +17,7 @@
     "@fontsource/poppins": "4.5.10",
     "@headlessui/react": "1.7.7",
     "clsx": "1.2.1",
-    "next": "12.3.4",
+    "next": "13.2.4",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "swr": "2.0.0"
@@ -30,7 +30,7 @@
     "@typescript-eslint/eslint-plugin": "5.47.1",
     "@typescript-eslint/parser": "5.47.1",
     "eslint": "8.30.0",
-    "eslint-config-next": "12.3.4",
+    "eslint-config-next": "13.2.4",
     "eslint-config-prettier": "8.5.0",
     "eslint-plugin-prettier": "4.2.1",
     "prettier": "2.8.1",
